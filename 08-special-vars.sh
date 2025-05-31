@@ -8,4 +8,4 @@ echo "user running the scrpit: $USER"
 echo "Home directory: $HOME"
 echo "PID of the scrpit: $$"
 sleep 20 &
-echo " PID of the last commnd" $!"
+echo " PID of the last command $!"
