@@ -7,7 +7,7 @@ NUMBER=$1
 # -eq ---- equal t
 # -ne ---- nt equal t 
 
-if [ $NUMBER -gt 10]
+if [ $NUMBER -gt 10 ]
 then
     echo  "Number is greather than 10 "
 else:
